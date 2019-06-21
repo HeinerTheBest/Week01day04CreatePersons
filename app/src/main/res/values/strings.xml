@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Create Persons</string>
+    <string name="enter_the_first_name">Enter the first name</string>
+    <string name="enter_the_last_name">Enter the last name</string>
+    <string name="enter_the_address">Enter the address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="submit">Submit</string>
+    <string name="restart">Restart</string>
+</resources>
